@@ -1,0 +1,39 @@
+.r1{
+    margin-top: 10mm;
+    text-align: center;
+}
+.r2{
+    margin-top: 10mm;
+   }
+.key{
+    padding-left: 10mm;
+     margin-left: 10mm;
+     font-weight: bolder;
+      height: 20mm;
+       width: 20mm;
+        margin-top: 10mm;
+        text-align: center;
+}
+.key1{
+    text-align: center;
+      padding-left: 10mm;
+       margin-left: 41mm;
+       font-size: 20mm;
+        height: 20mm;
+         width: 20mm;
+          margin-top: 10mm;
+}
+#main{
+    width: 500px;
+    height: 600px;
+}
+#output-screen {
+    background-color: rgb(175, 172, 168);
+    padding-left: 10mm;
+    margin-left: 10mm;
+
+}
+#hist{
+    padding-left: 10mm;
+    margin-left: 10mm;
+}
